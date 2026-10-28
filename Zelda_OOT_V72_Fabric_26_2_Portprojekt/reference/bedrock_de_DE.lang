@@ -1,0 +1,27 @@
+item.zelda:ocarina.name=Ocarina
+
+item.zelda:disk_storms.name=Musiknote – Hymne des Sturms
+item.zelda:disk_sun.name=Musiknote – Hymne der Sonne
+item.zelda:disk_lullaby.name=Musiknote – Zeldas Wiegenlied
+item.zelda:disk_time.name=Musiknote – Hymne der Zeit
+item.zelda:disk_epona.name=Musiknote – Eponas Lied
+item.zelda:navi_item=Navi – Fee
+entity.zelda:navi=Navi
+
+item.zelda:rupee_green.name=Grüner Rubin (+1)
+item.zelda:rupee_blue.name=Blauer Rubin (+5)
+item.zelda:small_key.name=Kleiner Schlüssel
+item.zelda:heart.name=Herz
+item.zelda:big_rupee_purse.name=Mittlere Rubintasche
+item.zelda:giant_rupee_purse.name=Große Rubintasche
+item.zelda:heart_piece.name=Herzteil
+item.zelda:heart_container.name=Herzcontainer
+
+item.zelda:small_rupee_purse.name=Kleine Rubintasche
+item.zelda:royal_rupee_purse.name=Königliche Rubintasche
+
+entity.zelda:merchant.name=Goron-Händler
+item.zelda:deku_stick.name=Deku-Stab
+item.zelda:deku_seed.name=Deku-Kern
+item.zelda:deku_slingshot.name=Deku-Schleuder
+

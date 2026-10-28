@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "mobforge",
+	"version": "${version}",
+	"name": "MobForge",
+	"description": "Server-authoritative YAML templates for creating and controlling custom vanilla mobs and encounters.",
+	"authors": [
+		"MobForge contributors"
+	],
+	"contact": {
+		"sources": "https://github.com/ekuzo/MobForge"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/mobforge/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ekuzo.mobforge.MobForge"
+		],
+		"client": [
+			"ekuzo.mobforge.client.MobForgeClient"
+		]
+	},
+	"mixins": [
+		"mobforge.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

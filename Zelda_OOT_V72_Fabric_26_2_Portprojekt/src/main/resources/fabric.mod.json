@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "zelda_oot_v72",
+  "version": "${version}",
+  "name": "Zelda OOT V72 \u2013 Fabric Port Preview",
+  "description": "Java port of Zelda OOT Bedrock mechanics; source preview, not verified compiled.",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "de.zelda.ZeldaPort"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
